@@ -1,6 +1,6 @@
 ## Summary
 
-My primary languages are JavaScript and Python, but we also have experience in Ruby, Scheme, and a bit of Clojure and Scala. My primary front end frameworks are React.js and Angular.js on the front end. On the back end, I have used Meteor.js, Django, Ruby on Rails, and Node.js professionally.
+My primary languages are JavaScript and Python, but I also have experience in Ruby, Scheme, and a bit of Clojure and Scala. My primary front end frameworks are React.js and Angular.js on the front end. On the back end, I have used Meteor.js, Django, Ruby on Rails, and Node.js professionally.
 
 ## Interhospital Transfers.
 
